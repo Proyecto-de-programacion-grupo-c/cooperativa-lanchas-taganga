@@ -1,4 +1,3 @@
-markdown
 # Evolución Incremental del Proyecto
 
 Esta carpeta documenta el desarrollo progresivo del sistema de gestión y análisis operativo de la **Cooperativa de Lanchas de Taganga**, dividido en 6 incrementos funcionales:
